@@ -18,3 +18,4 @@ jupyter==1.0.0
 pythonnet==3.0.3
 pathy==0.4.0
 smart-open==3.0.0
+
